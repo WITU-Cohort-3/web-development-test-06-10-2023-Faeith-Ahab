@@ -1,0 +1,20 @@
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    font-weight: 700;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+}
+.index{
+    font-style: italic;
+}
+p{
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#del {
+    background-color: beige;
+}
